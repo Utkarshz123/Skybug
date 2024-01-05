@@ -17,7 +17,7 @@ int main()
   {
       random_number=100;
   }
-  // cout<<random_number<<endl;
+  
  
    while(1)
    {
